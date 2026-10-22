@@ -1,0 +1,6 @@
+homepage: "https://citationlab.ai"
+documentation: "https://github.com/kristerevensen/gtm-template-citationlab-consent#readme"
+versions:
+  # Latest release first.
+  - sha: 4a318669f1a31211e81f4a20025060b2dc226a72
+    changeNotes: "First release."
